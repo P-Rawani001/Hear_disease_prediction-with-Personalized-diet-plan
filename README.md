@@ -179,13 +179,13 @@ Our Random Forest model demonstrates exceptional performance across all evaluati
 - **F1-Score**: 92.7% - Optimal balance between precision and recall
 - **ROC-AUC**: 92.7% - Superior discriminative ability
 
-![Model Performance](assets\confusion_matrix.png)
+![Model Performance](assets/confusion_matrix.png)
 
 ### 📈 **Learning Curve Analysis**
 
 The learning curves demonstrate robust model performance with minimal overfitting:
 
-![Learning Curves](assets\learning curves.png)
+![Learning Curves](assets/learning_curves.png)
 
 **Key Insights:**
 - **Training F1**: Consistently high (~1.00) across all training set sizes
