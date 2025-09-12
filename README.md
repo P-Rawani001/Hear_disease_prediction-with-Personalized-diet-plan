@@ -208,7 +208,7 @@ Advanced class imbalance handling through systematic weight optimization:
 
 Comprehensive analysis of parameter effects on model performance:
 
-![Impact Analysis](assets/paramter_impact.png)
+![Impact Analysis](assets/parameter_impact.png)
 
 **Parameter Optimization:**
 - **n_estimators**: Optimal at 200-300 trees for best performance
