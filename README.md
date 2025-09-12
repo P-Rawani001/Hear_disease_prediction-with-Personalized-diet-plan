@@ -197,7 +197,7 @@ The learning curves demonstrate robust model performance with minimal overfittin
 
 Advanced class imbalance handling through systematic weight optimization:
 
-![Class Weight Impact](assets\impact_of_class.png)
+![Class Weight Impact](assets/class_weight.png)
 
 **Optimization Results:**
 - **Best Configuration**: Balanced class weights (0:1, 1:1)
@@ -208,7 +208,7 @@ Advanced class imbalance handling through systematic weight optimization:
 
 Comprehensive analysis of parameter effects on model performance:
 
-![Impact Analysis](assets\paramter_impact.png)
+![Impact Analysis](assets/paramter_impact.png)
 
 **Parameter Optimization:**
 - **n_estimators**: Optimal at 200-300 trees for best performance
@@ -221,7 +221,7 @@ Comprehensive analysis of parameter effects on model performance:
 
 Systematic hyperparameter validation ensuring optimal model configuration:
 
-![Validation Curves](assets\validation_curves.png)
+![Validation Curves](assets/validation_curves.png)
 
 **Validation Insights:**
 - **n_estimators**: 400 trees provide optimal performance plateau
